@@ -1,0 +1,6 @@
+BEGIN PAUP;
+	set autoclose=yes;
+	SVDquartets evalQuartets=all bootstrap=standard;
+	SaveTrees files=FILENAME format=newick;
+	quit;
+End;
