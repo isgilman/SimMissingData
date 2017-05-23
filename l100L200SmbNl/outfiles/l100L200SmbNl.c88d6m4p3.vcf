@@ -1,5 +1,5 @@
 ##fileformat=VCFv4.1
-##fileDate=20170522
+##fileDate=20170523
 ##source=pyRAD.v.3.0.66
 ##reference=common_allele_at_each_locus
 ##INFO=<ID=NS,Number=1,Type=Integer,Description="Number of Samples With Data">
