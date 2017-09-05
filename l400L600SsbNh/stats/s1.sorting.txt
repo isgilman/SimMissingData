@@ -1,0 +1,19 @@
+file    	Nreads	cut_found	bar_matched
+l400L600SsbNh_.fastq.gz	120000	120000	120000
+
+
+sample	true_bar	obs_bars	N_obs
+K_0_0    	ACGTGTGTG    	ACGTGTGTG	10000   
+F_0_0    	AGAGCCGAG    	AGAGCCGAG	10000   
+A_0_0    	CATCATCAT    	CATCATCAT	10000   
+B_0_0    	CCAGTGATA    	CCAGTGATA	10000   
+J_0_0    	CCTTATGTC    	CCTTATGTC	10000   
+H_0_0    	CTCACTGCA    	CTCACTGCA	10000   
+G_0_0    	CTCCAATCC    	CTCCAATCC	10000   
+I_0_0    	GGCGCATAC    	GGCGCATAC	10000   
+D_0_0    	GGGAAAAAC    	GGGAAAAAC	10000   
+E_0_0    	GTGGATATC    	GTGGATATC	10000   
+C_0_0    	TGGCCTAGT    	TGGCCTAGT	10000   
+L_0_0    	TTACTAACA    	TTACTAACA	10000   
+
+nomatch  	_               	0

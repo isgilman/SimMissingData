@@ -1,0 +1,104 @@
+
+
+500         ## loci with > minsp containing data
+500         ## loci with > minsp containing data & paralogs removed
+500         ## loci with > minsp containing data & paralogs removed & final filtering
+
+## number of loci recovered in final data set for each taxon.
+taxon	nloci
+A_0	468
+B_0	479
+C_0	477
+D_0	478
+E_0	474
+F_0	479
+G_0	478
+H_0	467
+I_0	477
+J_0	469
+K_0	467
+L_0	472
+
+
+## nloci = number of loci with data for exactly ntaxa
+## ntotal = number of loci for which at least ntaxa have data
+ntaxa	nloci	saved	ntotal
+1	-
+2	-		-
+3	-		-
+4	0	*	500
+5	0	*	500
+6	0	*	500
+7	1	*	500
+8	2	*	499
+9	11	*	497
+10	46	*	486
+11	177	*	440
+12	263	*	263
+
+
+## nvar = number of loci containing n variable sites (pis+autapomorphies).
+## sumvar = sum of variable sites (SNPs).
+## pis = number of loci containing n parsimony informative sites.
+## sumpis = sum of parsimony informative sites.
+	nvar	sumvar	PIS	sumPIS
+0	0	0	0	0
+1	0	0	2	2
+2	0	0	3	8
+3	0	0	7	29
+4	0	0	24	125
+5	0	0	25	250
+6	0	0	41	496
+7	0	0	64	944
+8	0	0	58	1408
+9	0	0	52	1876
+10	0	0	48	2356
+11	0	0	45	2851
+12	0	0	33	3247
+13	0	0	19	3494
+14	0	0	27	3872
+15	0	0	13	4067
+16	0	0	13	4275
+17	0	0	7	4394
+18	0	0	6	4502
+19	1	19	9	4673
+20	0	19	3	4733
+21	1	40	0	4733
+22	1	62	1	4755
+23	5	177	0	4755
+24	7	345	0	4755
+25	13	670	0	4755
+26	12	982	0	4755
+27	10	1252	0	4755
+28	13	1616	0	4755
+29	12	1964	0	4755
+30	19	2534	0	4755
+31	28	3402	0	4755
+32	30	4362	0	4755
+33	32	5418	0	4755
+34	25	6268	0	4755
+35	36	7528	0	4755
+36	39	8932	0	4755
+37	28	9968	0	4755
+38	21	10766	0	4755
+39	34	12092	0	4755
+40	23	13012	0	4755
+41	23	13955	0	4755
+42	15	14585	0	4755
+43	12	15101	0	4755
+44	15	15761	0	4755
+45	9	16166	0	4755
+46	6	16442	0	4755
+47	7	16771	0	4755
+48	5	17011	0	4755
+49	7	17354	0	4755
+50	4	17554	0	4755
+51	2	17656	0	4755
+52	1	17708	0	4755
+53	2	17814	0	4755
+54	1	17868	0	4755
+55	1	17923	0	4755
+total var= 17923
+total pis= 4755
+sampled unlinked SNPs= 500
+sampled unlinked bi-allelic SNPs= 500

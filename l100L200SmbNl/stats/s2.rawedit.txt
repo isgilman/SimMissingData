@@ -1,0 +1,19 @@
+sample 	Nreads	passed	passed.w.trim	passed.total
+A_0	4000	4000	0	4000
+B_0	4000	4000	0	4000
+C_0	4000	4000	0	4000
+D_0	4000	4000	0	4000
+E_0	4000	4000	0	4000
+F_0	4000	4000	0	4000
+G_0	4000	4000	0	4000
+H_0	4000	4000	0	4000
+I_0	4000	4000	0	4000
+J_0	4000	4000	0	4000
+K_0	4000	4000	0	4000
+L_0	4000	4000	0	4000
+
+    Nreads = total number of reads for a sample
+    passed = retained reads that passed quality filtering at full length
+    passed.w.trim= retained reads that were trimmed due to detection of adapters
+    passed.total  = total kept reads of sufficient length
+    note: you can set the option in params file to include trimmed reads of xx length. 
